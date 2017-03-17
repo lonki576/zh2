@@ -43,11 +43,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="bolha.cs" />
+    <Compile Include="csiga.cs" />
+    <Compile Include="fecske.cs" />
+    <Compile Include="hóvirág.cs" />
+    <Compile Include="lábas.cs" />
+    <Compile Include="medve.cs" />
+    <Compile Include="nyúl.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="róka.cs" />
+    <Compile Include="verseny.cs" />
+    <Compile Include="versenyző.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
